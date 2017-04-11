@@ -6,8 +6,4 @@ exports.twitterKeys = {
   access_token_key: '850831965100093442-LoEduy6MrvIkYDmbSItN25l3tWtUDQv',
   access_token_secret: 'sqZY2zQbnezRA4oBq3fDlaZi4CJV2npjil975Omba4e3x',
 }
-
-	App-only authentication	https://api.twitter.com/oauth2/token
-Request token URL	https://api.twitter.com/oauth/request_token
-Authorize URL	https://api.twitter.com/oauth/authorize
-Access token URL	https://api.twitter.com/oauth/access_token
+ // module.exports = twitterKeys;
